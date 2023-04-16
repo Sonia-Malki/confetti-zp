@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" width="2.3cm" height="2.1cm" viewBox="0 0 66.4 60.8">
+  <rect x="21.8" y="4.7" width="22.9" height="22.9" transform="translate(-1.7 28.2) rotate(-45)" fill="#151515"/>
+  <rect x="4.7" y="21.8" width="22.9" height="22.9" transform="translate(-18.7 21.2) rotate(-45)" fill="#151515"/>
+  <rect x="38.8" y="21.8" width="22.9" height="22.9" transform="translate(-8.8 45.2) rotate(-45)" fill="#151515"/>
+  <polygon points="6.6 60.8 33.2 34.2 59.9 60.8 6.6 60.8" fill="#cc1236"/>
+</svg>
